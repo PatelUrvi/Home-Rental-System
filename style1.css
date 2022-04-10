@@ -1,0 +1,11 @@
+.loginbox a{
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 20px;
+	color: black;
+}
+
+.loginbox a:hover
+{
+	color: red;
+}
